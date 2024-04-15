@@ -1,1 +1,1 @@
-export { OverworldMap1 } from './src/OverworldMap1.js';
+export { OverworldMap } from './src/OverworldMap.js';
