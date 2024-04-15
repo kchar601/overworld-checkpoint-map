@@ -282,7 +282,7 @@ export class OverworldMap extends LitElement {
   }
 }
 
-
+window.customElements.define('overworld-map', OverworldMap);
 
 // MapNode.js
 class MapNode {
